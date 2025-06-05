@@ -72,3 +72,6 @@ poetry.lock
 
 # PEP 582; used by some Python distributions
 __pypackages
+
+.idea/
+__pycache__
