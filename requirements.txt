@@ -1,1 +1,6 @@
 ipykernel
+numpy
+streamlit
+pandas
+matplotlib
+scikit-learn
